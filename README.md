@@ -40,7 +40,7 @@
 ```wget --no-check-certificate https://raw.githubusercontent.com/1309822767/ssrpanel-panghu/master/dev-script.sh&&chmod +x dev-script.sh&&bash dev-script.sh```
 
 
-更多问题访问：<a href="http://dalaos.top/">http://dalaos.top/</a><br>
+更多问题访问：<a href="https://pandorahiro.cn/">https://pandorahiro.cn/</a><br>
 
 说明WIKI:<a href="https://github.com/marisn2017/ssrpanel/wiki">https://github.com/marisn2017/ssrpanel/wiki</a><br>
 
